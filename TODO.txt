@@ -1,0 +1,5 @@
+PN - probably not M - maybe P - probably D - definitely G - get on it already ya slubberdegullion
+A - add feature R - remove feature C - change feature M - move feature
+
+M   M   Separate into Dawnforge and OCM
+D   C   Rejigger the crafting recipe

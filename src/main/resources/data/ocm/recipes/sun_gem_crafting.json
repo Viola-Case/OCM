@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    "DND",
+    "NNN",
+    "DND"
+  ],
+  "result": {
+    "item": "ocm:sun_gem"
+  }
+}
