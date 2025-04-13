@@ -3,3 +3,15 @@ A - add feature R - remove feature C - change feature M - move feature
 
 M   M   Separate into Dawnforge and OCM
 D   C   Rejigger the crafting recipe
+
+
+Codebase separation:
+
+    Command -   cowsay
+    Command -   ricefight
+    Command -   Darkcheck/darkset
+    Item    -   Sun Gem and its dependencies
+    Item    -   Monster Jerky
+
+    Recipe  -   Zombie Leather
+
